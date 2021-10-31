@@ -1,3 +1,3 @@
 # mam
-# pythone object orented programming 
+# python object orented programming 
 #the best practise
